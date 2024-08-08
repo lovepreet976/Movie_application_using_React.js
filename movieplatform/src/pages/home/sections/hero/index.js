@@ -16,7 +16,7 @@ function Hero(){
        <Button 
        name ={"Watch Now"} 
        handler={()=>console.log("clicked watch")}
-       className={styles.watch}>
+       className={styles.now}>
 
         <Icon icon="icon-park-solid:play" />
       </Button>

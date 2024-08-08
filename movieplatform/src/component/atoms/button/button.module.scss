@@ -1,0 +1,11 @@
+button{
+    display:flex;
+    padding:10px 15px;
+    cursor:pointer;
+    background-color: white;
+
+    span{
+        font-weight:550;
+        color: cvar(--white);
+    }
+}
